@@ -1,5 +1,4 @@
 # energizedkittens.github.io
-<!doctype html>
   <html>
     <head>
       <meta charset="UTF-8>
